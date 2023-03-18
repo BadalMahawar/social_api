@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://admin:user@cluster0.u4ck3d5.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"secret",
+    "clientId": "9c385b6f2af0952ef03b",
+  "clientSecrets": "8d07fc352b9fbd677788ce52894eb2307848cdd3"
+}
